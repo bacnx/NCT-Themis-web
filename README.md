@@ -1,2 +1,3 @@
 # NCT-Themis-web
-Nguyen Chi Thanh - Themis web interface
+- Resource: Bui Vi Quoc
+- Judger: Themis - Le Minh Hoang & Do Duc Dong
