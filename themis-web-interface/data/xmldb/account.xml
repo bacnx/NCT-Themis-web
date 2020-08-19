@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>Belikhun</Author>
+    <LastAuthor>Belikhun</LastAuthor>
+    <Created>2013-11-09T04:09:09Z</Created>
+    <Version>16.00</Version>
+  </DocumentProperties>
+  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+    <AllowPNG/>
+  </OfficeDocumentSettings>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+    <WindowHeight>12330</WindowHeight>
+    <WindowWidth>28800</WindowWidth>
+    <WindowTopX>0</WindowTopX>
+    <WindowTopY>0</WindowTopY>
+    <RefModeR1C1/>
+    <ProtectStructure>False</ProtectStructure>
+    <ProtectWindows>False</ProtectWindows>
+  </ExcelWorkbook>
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+      <Interior/>
+      <NumberFormat/>
+      <Protection/>
+    </Style>
+    <Style ss:ID="s62">
+      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+    </Style>
+    <Style ss:ID="s63">
+      <Borders/>
+      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+    </Style>
+    <Style ss:ID="s64">
+      <Borders/>
+      <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+      <Interior/>
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Account">
+    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="5" x:FullColumns="1" x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+      <Column ss:Index="2" ss:StyleID="s62" ss:Width="128.25"/>
+      <Column ss:StyleID="s62" ss:Width="180"/>
+      <Column ss:StyleID="s62" ss:Width="123"/>
+      <Column ss:StyleID="s62" ss:Width="61.5"/>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">id</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">username</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">password</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">name</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">repass</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">admin</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">admin</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">$2y$10$9hfa8VmsLchLCZMgp4e7QuRunj6Q80TceObyEbkPXf8GTReMCMo8m</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="String">NCT-admin</Data>
+        </Cell>
+        <Cell ss:StyleID="s63">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s64" ss:Index="1">
+          <Data ss:Type="String">12Tin</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="2">
+          <Data ss:Type="String">bvquoc</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="3">
+          <Data ss:Type="String">$2y$10$5S51JWUC8UwcjL9qUsXe0.cqe1jYY3G1g92zSbRMxwmOC26nZ9bGu</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="4">
+          <Data ss:Type="String">B&#xF9;i V&#x129; Qu&#x1ED1;c</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="5">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s64" ss:Index="1">
+          <Data ss:Type="String">12Tin</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="2">
+          <Data ss:Type="String">thson</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="3">
+          <Data ss:Type="String">$2y$10$CIzsPCi93eGQ9Qfg8sUTk.HWTDlIHvhiolJ/YZwlQmo8CKywVYAGi</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="4">
+          <Data ss:Type="String">Tr&#x1B0;&#x1A1;ng V&#x103;n Ho&#xE0;ng S&#x1A1;n</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="5">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s64" ss:Index="1">
+          <Data ss:Type="String">12HO</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="2">
+          <Data ss:Type="String">ntanh</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="3">
+          <Data ss:Type="String">$2y$10$1OWd64UGRqUKpB01OmYurOzmg3XzHs3zPxS20iXLGQs/IjKorAtEK</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="4">
+          <Data ss:Type="String">Nguy&#x1EC5;n Tu&#x1EA5;n Anh</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="5">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s64" ss:Index="1">
+          <Data ss:Type="String">12LY</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="2">
+          <Data ss:Type="String">nxbac</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="3">
+          <Data ss:Type="String">$2y$10$eLGbIheGFsVYGCPWjhQva.oJ0QFPX0RpdQzBBel9XsNfyhdn9OnRW</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="4">
+          <Data ss:Type="String">Nguy&#x1EC5;n Xu&#xE2;n B&#x1EAF;c</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="5">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s64" ss:Index="1">
+          <Data ss:Type="String">11Tin</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="2">
+          <Data ss:Type="String">tdchinh</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="3">
+          <Data ss:Type="String">$2y$10$hsLrpunifGD/4TJbsR2EBOdfY1BDssbi6u.ExKEZ9U7nborvrHsk.</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="4">
+          <Data ss:Type="String">Tr&#x1EA7;n &#x110;&#x1EE9;c Ch&#xED;nh</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="5">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:StyleID="s64" ss:Index="1">
+          <Data ss:Type="String">11TO2</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="2">
+          <Data ss:Type="String">dtson</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="3">
+          <Data ss:Type="String">$2y$10$pjl9HNPJwVDgA8Z02UTUzOfDti3IMb/rhbUDKqTz.Zzlh/.1a5iY.</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="4">
+          <Data ss:Type="String">&#x110;&#x1EB7;ng Th&#xE0;nh S&#x1A1;n</Data>
+        </Cell>
+        <Cell ss:StyleID="s64" ss:Index="5">
+          <Data ss:Type="Number">0</Data>
+        </Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+      <PageSetup>
+        <Header x:Margin="0.3"/>
+        <Footer x:Margin="0.3"/>
+        <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+      </PageSetup>
+      <Unsynced/>
+      <Print>
+        <ValidPrinterInfo/>
+        <PaperSizeIndex>9</PaperSizeIndex>
+        <HorizontalResolution>600</HorizontalResolution>
+        <VerticalResolution>600</VerticalResolution>
+      </Print>
+      <Selected/>
+      <Panes>
+        <Pane>
+          <Number>3</Number>
+          <ActiveRow>1</ActiveRow>
+          <ActiveCol>4</ActiveCol>
+        </Pane>
+      </Panes>
+      <ProtectObjects>False</ProtectObjects>
+      <ProtectScenarios>False</ProtectScenarios>
+    </WorksheetOptions>
+  </Worksheet>
+</Workbook>

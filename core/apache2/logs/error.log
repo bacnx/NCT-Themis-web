@@ -1,0 +1,42 @@
+[Sat Jun 27 11:49:00.701038 2020] [core:warn] [pid 8160:tid 636] AH00098: pid file D:/0-themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 27 11:49:01.195101 2020] [mpm_winnt:notice] [pid 8160:tid 636] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Sat Jun 27 11:49:01.195101 2020] [mpm_winnt:notice] [pid 8160:tid 636] AH00456: Server built: Aug 10 2019 13:33:27
+[Sat Jun 27 11:49:01.195101 2020] [core:notice] [pid 8160:tid 636] AH00094: Command line: 'D:\\0-themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d D:/0-themis-web-interface/core/apache2 -f D:\\0-themis-web-interface\\core\\apache2\\conf\\httpd.conf -d D:\\0-themis-web-interface\\core\\apache2'
+[Sat Jun 27 11:49:01.195101 2020] [mpm_winnt:notice] [pid 8160:tid 636] AH00418: Parent: Created child process 9908
+[Sat Jun 27 11:49:01.864316 2020] [mpm_winnt:notice] [pid 9908:tid 672] AH00354: Child: Starting 150 worker threads.
+[Sat Jun 27 12:42:39.204017 2020] [core:warn] [pid 9780:tid 572] AH00098: pid file D:/0-themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 27 12:42:39.754262 2020] [mpm_winnt:notice] [pid 9780:tid 572] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Sat Jun 27 12:42:39.754262 2020] [mpm_winnt:notice] [pid 9780:tid 572] AH00456: Server built: Aug 10 2019 13:33:27
+[Sat Jun 27 12:42:39.754262 2020] [core:notice] [pid 9780:tid 572] AH00094: Command line: 'D:\\0-themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d D:/0-themis-web-interface/core/apache2 -f D:\\0-themis-web-interface\\core\\apache2\\conf\\httpd.conf -d D:\\0-themis-web-interface\\core\\apache2'
+[Sat Jun 27 12:42:39.756256 2020] [mpm_winnt:notice] [pid 9780:tid 572] AH00418: Parent: Created child process 980
+[Sat Jun 27 12:42:41.335719 2020] [mpm_winnt:notice] [pid 980:tid 564] AH00354: Child: Starting 150 worker threads.
+[Sat Jun 27 19:51:01.453506 2020] [core:warn] [pid 8316:tid 556] AH00098: pid file D:/0-themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jun 27 19:51:01.553427 2020] [mpm_winnt:notice] [pid 8316:tid 556] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Sat Jun 27 19:51:01.553427 2020] [mpm_winnt:notice] [pid 8316:tid 556] AH00456: Server built: Aug 10 2019 13:33:27
+[Sat Jun 27 19:51:01.553427 2020] [core:notice] [pid 8316:tid 556] AH00094: Command line: 'D:\\0-themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d D:/0-themis-web-interface/core/apache2 -f D:\\0-themis-web-interface\\core\\apache2\\conf\\httpd.conf -d D:\\0-themis-web-interface\\core\\apache2'
+[Sat Jun 27 19:51:01.555389 2020] [mpm_winnt:notice] [pid 8316:tid 556] AH00418: Parent: Created child process 11040
+[Sat Jun 27 19:51:02.547295 2020] [mpm_winnt:notice] [pid 11040:tid 620] AH00354: Child: Starting 150 worker threads.
+[Sat Jul 18 16:28:41.558042 2020] [core:warn] [pid 6008:tid 152] AH00098: pid file D:/0-themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jul 18 16:28:41.964146 2020] [mpm_winnt:notice] [pid 6008:tid 152] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Sat Jul 18 16:28:41.964146 2020] [mpm_winnt:notice] [pid 6008:tid 152] AH00456: Server built: Aug 10 2019 13:33:27
+[Sat Jul 18 16:28:41.964146 2020] [core:notice] [pid 6008:tid 152] AH00094: Command line: 'D:\\0-themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d D:/0-themis-web-interface/core/apache2 -f D:\\0-themis-web-interface\\core\\apache2\\conf\\httpd.conf -d D:\\0-themis-web-interface\\core\\apache2'
+[Sat Jul 18 16:28:41.964146 2020] [mpm_winnt:notice] [pid 6008:tid 152] AH00418: Parent: Created child process 11888
+[Sat Jul 18 16:28:42.385924 2020] [mpm_winnt:notice] [pid 11888:tid 604] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 09 15:57:57.391316 2020] [core:warn] [pid 2388:tid 608] AH00098: pid file C:/Users/BV-Quoc/Desktop/0-themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 09 15:57:57.823415 2020] [mpm_winnt:notice] [pid 2388:tid 608] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Sun Aug 09 15:57:57.823415 2020] [mpm_winnt:notice] [pid 2388:tid 608] AH00456: Server built: Aug 10 2019 13:33:27
+[Sun Aug 09 15:57:57.823415 2020] [core:notice] [pid 2388:tid 608] AH00094: Command line: 'C:\\Users\\BV-Quoc\\Desktop\\0-themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/BV-Quoc/Desktop/0-themis-web-interface/core/apache2 -f C:\\Users\\BV-Quoc\\Desktop\\0-themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\BV-Quoc\\Desktop\\0-themis-web-interface\\core\\apache2'
+[Sun Aug 09 15:57:57.832696 2020] [mpm_winnt:notice] [pid 2388:tid 608] AH00418: Parent: Created child process 9792
+[Sun Aug 09 15:57:59.292594 2020] [mpm_winnt:notice] [pid 9792:tid 772] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 09 16:02:11.448232 2020] [core:warn] [pid 4604:tid 608] AH00098: pid file C:/Users/BV-Quoc/Desktop/0-themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 09 16:02:11.469285 2020] [mpm_winnt:notice] [pid 4604:tid 608] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Sun Aug 09 16:02:11.469285 2020] [mpm_winnt:notice] [pid 4604:tid 608] AH00456: Server built: Aug 10 2019 13:33:27
+[Sun Aug 09 16:02:11.469285 2020] [core:notice] [pid 4604:tid 608] AH00094: Command line: 'C:\\Users\\BV-Quoc\\Desktop\\0-themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/BV-Quoc/Desktop/0-themis-web-interface/core/apache2 -f C:\\Users\\BV-Quoc\\Desktop\\0-themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\BV-Quoc\\Desktop\\0-themis-web-interface\\core\\apache2'
+[Sun Aug 09 16:02:11.480245 2020] [mpm_winnt:notice] [pid 4604:tid 608] AH00418: Parent: Created child process 6436
+[Sun Aug 09 16:02:12.010671 2020] [mpm_winnt:notice] [pid 6436:tid 696] AH00354: Child: Starting 150 worker threads.
+[Mon Aug 10 14:09:49.368274 2020] [core:warn] [pid 9752:tid 608] AH00098: pid file D:/0-themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Aug 10 14:09:49.764436 2020] [mpm_winnt:notice] [pid 9752:tid 608] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Mon Aug 10 14:09:49.764436 2020] [mpm_winnt:notice] [pid 9752:tid 608] AH00456: Server built: Aug 10 2019 13:33:27
+[Mon Aug 10 14:09:49.764436 2020] [core:notice] [pid 9752:tid 608] AH00094: Command line: 'D:\\0-themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d D:/0-themis-web-interface/core/apache2 -f D:\\0-themis-web-interface\\core\\apache2\\conf\\httpd.conf -d D:\\0-themis-web-interface\\core\\apache2'
+[Mon Aug 10 14:09:49.764436 2020] [mpm_winnt:notice] [pid 9752:tid 608] AH00418: Parent: Created child process 1704
+[Mon Aug 10 14:09:50.247755 2020] [mpm_winnt:notice] [pid 1704:tid 600] AH00354: Child: Starting 150 worker threads.
